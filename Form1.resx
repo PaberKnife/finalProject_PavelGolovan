@@ -215,7 +215,7 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="progressGroupBox.Font" type="System.Drawing.Font, System.Drawing">
-    <value>DREAMS, 3pt</value>
+    <value>Segoe UI, 12pt, style=Bold</value>
   </data>
   <data name="progressGroupBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 707</value>
@@ -243,6 +243,1041 @@
     <value>8</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="totalLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="totalLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>123, 49</value>
+  </data>
+  <data name="totalLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 23</value>
+  </data>
+  <data name="totalLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="totalLabel.Text" xml:space="preserve">
+    <value>Total :</value>
+  </data>
+  <data name="totalLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.Name" xml:space="preserve">
+    <value>totalLabel</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.Parent" xml:space="preserve">
+    <value>progressGroupBox</value>
+  </data>
+  <data name="&gt;&gt;totalLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="coinsLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="coinsLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>609, 49</value>
+  </data>
+  <data name="coinsLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>285, 23</value>
+  </data>
+  <data name="coinsLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="coinsLabel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="coinsLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;coinsLabel.Name" xml:space="preserve">
+    <value>coinsLabel</value>
+  </data>
+  <data name="&gt;&gt;coinsLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;coinsLabel.Parent" xml:space="preserve">
+    <value>progressGroupBox</value>
+  </data>
+  <data name="&gt;&gt;coinsLabel.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="exitButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="exitButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="exitButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1038, 855</value>
+  </data>
+  <data name="exitButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 31</value>
+  </data>
+  <data name="exitButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="exitButton.Text" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Name" xml:space="preserve">
+    <value>exitButton</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;exitButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;exitButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="loadButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="loadButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="loadButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1038, 767</value>
+  </data>
+  <data name="loadButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 31</value>
+  </data>
+  <data name="loadButton.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="loadButton.Text" xml:space="preserve">
+    <value>Load</value>
+  </data>
+  <data name="&gt;&gt;loadButton.Name" xml:space="preserve">
+    <value>loadButton</value>
+  </data>
+  <data name="&gt;&gt;loadButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;loadButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;loadButton.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="saveButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="saveButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="saveButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1038, 730</value>
+  </data>
+  <data name="saveButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 31</value>
+  </data>
+  <data name="saveButton.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="saveButton.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="&gt;&gt;saveButton.Name" xml:space="preserve">
+    <value>saveButton</value>
+  </data>
+  <data name="&gt;&gt;saveButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;saveButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="alienTechnologyPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="alienTechnologyPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>201, 79</value>
+  </data>
+  <data name="alienTechnologyPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 23</value>
+  </data>
+  <data name="alienTechnologyPowerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="alienTechnologyPowerLabel.Text" xml:space="preserve">
+    <value>+ 0 KM/CLICK</value>
+  </data>
+  <data name="alienTechnologyPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPowerLabel.Name" xml:space="preserve">
+    <value>alienTechnologyPowerLabel</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPowerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPowerLabel.Parent" xml:space="preserve">
+    <value>alienTechnologyGroupBox</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPowerLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="alienTechnologyPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="alienTechnologyPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="alienTechnologyPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="alienTechnologyPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="alienTechnologyPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPictureBox.Name" xml:space="preserve">
+    <value>alienTechnologyPictureBox</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPictureBox.Parent" xml:space="preserve">
+    <value>alienTechnologyGroupBox</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyPictureBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="alienTechnologyAmountLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="alienTechnologyAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="alienTechnologyAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 79</value>
+  </data>
+  <data name="alienTechnologyAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 23</value>
+  </data>
+  <data name="alienTechnologyAmountLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="alienTechnologyAmountLabel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="alienTechnologyAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyAmountLabel.Name" xml:space="preserve">
+    <value>alienTechnologyAmountLabel</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyAmountLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyAmountLabel.Parent" xml:space="preserve">
+    <value>alienTechnologyGroupBox</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyAmountLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="alienTechnologyCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="alienTechnologyCostLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="alienTechnologyCostLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>297, 23</value>
+  </data>
+  <data name="alienTechnologyCostLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="alienTechnologyCostLabel.Text" xml:space="preserve">
+    <value>25000 $</value>
+  </data>
+  <data name="alienTechnologyCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyCostLabel.Name" xml:space="preserve">
+    <value>alienTechnologyCostLabel</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyCostLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyCostLabel.Parent" xml:space="preserve">
+    <value>alienTechnologyGroupBox</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyCostLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="alienTechnologyGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 565</value>
+  </data>
+  <data name="alienTechnologyGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>434, 130</value>
+  </data>
+  <data name="alienTechnologyGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="alienTechnologyGroupBox.Text" xml:space="preserve">
+    <value>Alien Technology (Active Upgrade)</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyGroupBox.Name" xml:space="preserve">
+    <value>alienTechnologyGroupBox</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyGroupBox.Parent" xml:space="preserve">
+    <value>upgradesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;alienTechnologyGroupBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="aerodynamicsPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="aerodynamicsPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>201, 79</value>
+  </data>
+  <data name="aerodynamicsPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 23</value>
+  </data>
+  <data name="aerodynamicsPowerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="aerodynamicsPowerLabel.Text" xml:space="preserve">
+    <value>+ 0 KM/S</value>
+  </data>
+  <data name="aerodynamicsPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPowerLabel.Name" xml:space="preserve">
+    <value>aerodynamicsPowerLabel</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPowerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPowerLabel.Parent" xml:space="preserve">
+    <value>aerodynamicsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPowerLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="aerodynamicsPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="aerodynamicsPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="aerodynamicsPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="aerodynamicsPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="aerodynamicsPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPictureBox.Name" xml:space="preserve">
+    <value>aerodynamicsPictureBox</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPictureBox.Parent" xml:space="preserve">
+    <value>aerodynamicsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsPictureBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="aerodynamicsAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="aerodynamicsAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 79</value>
+  </data>
+  <data name="aerodynamicsAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 23</value>
+  </data>
+  <data name="aerodynamicsAmountLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="aerodynamicsAmountLabel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="aerodynamicsAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsAmountLabel.Name" xml:space="preserve">
+    <value>aerodynamicsAmountLabel</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsAmountLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsAmountLabel.Parent" xml:space="preserve">
+    <value>aerodynamicsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsAmountLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="aerodynamicsCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="aerodynamicsCostLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="aerodynamicsCostLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>297, 23</value>
+  </data>
+  <data name="aerodynamicsCostLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="aerodynamicsCostLabel.Text" xml:space="preserve">
+    <value>10000 $</value>
+  </data>
+  <data name="aerodynamicsCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsCostLabel.Name" xml:space="preserve">
+    <value>aerodynamicsCostLabel</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsCostLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsCostLabel.Parent" xml:space="preserve">
+    <value>aerodynamicsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsCostLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="aerodynamicsGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 429</value>
+  </data>
+  <data name="aerodynamicsGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>434, 130</value>
+  </data>
+  <data name="aerodynamicsGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="aerodynamicsGroupBox.Text" xml:space="preserve">
+    <value>Aerodynamics (Passive Upgrade)</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsGroupBox.Name" xml:space="preserve">
+    <value>aerodynamicsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsGroupBox.Parent" xml:space="preserve">
+    <value>upgradesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;aerodynamicsGroupBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="nuclearFuelPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="nuclearFuelPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>201, 79</value>
+  </data>
+  <data name="nuclearFuelPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 23</value>
+  </data>
+  <data name="nuclearFuelPowerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="nuclearFuelPowerLabel.Text" xml:space="preserve">
+    <value>+ 0 KM/CLICK</value>
+  </data>
+  <data name="nuclearFuelPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPowerLabel.Name" xml:space="preserve">
+    <value>nuclearFuelPowerLabel</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPowerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPowerLabel.Parent" xml:space="preserve">
+    <value>nuclearFuelGroupBox</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPowerLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="nuclearFuelPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="nuclearFuelPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="nuclearFuelPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="nuclearFuelPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="nuclearFuelPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPictureBox.Name" xml:space="preserve">
+    <value>nuclearFuelPictureBox</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPictureBox.Parent" xml:space="preserve">
+    <value>nuclearFuelGroupBox</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelPictureBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="nuclearFuelAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="nuclearFuelAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 79</value>
+  </data>
+  <data name="nuclearFuelAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 23</value>
+  </data>
+  <data name="nuclearFuelAmountLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="nuclearFuelAmountLabel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="nuclearFuelAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelAmountLabel.Name" xml:space="preserve">
+    <value>nuclearFuelAmountLabel</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelAmountLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelAmountLabel.Parent" xml:space="preserve">
+    <value>nuclearFuelGroupBox</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelAmountLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="nuclearFuelCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="nuclearFuelCostLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="nuclearFuelCostLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>297, 23</value>
+  </data>
+  <data name="nuclearFuelCostLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="nuclearFuelCostLabel.Text" xml:space="preserve">
+    <value>5000 $</value>
+  </data>
+  <data name="nuclearFuelCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelCostLabel.Name" xml:space="preserve">
+    <value>nuclearFuelCostLabel</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelCostLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelCostLabel.Parent" xml:space="preserve">
+    <value>nuclearFuelGroupBox</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelCostLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="nuclearFuelGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 293</value>
+  </data>
+  <data name="nuclearFuelGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>434, 130</value>
+  </data>
+  <data name="nuclearFuelGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="nuclearFuelGroupBox.Text" xml:space="preserve">
+    <value>Nuclear Fuel (Active Upgrade)</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelGroupBox.Name" xml:space="preserve">
+    <value>nuclearFuelGroupBox</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelGroupBox.Parent" xml:space="preserve">
+    <value>upgradesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;nuclearFuelGroupBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="astronautPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="astronautPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>201, 79</value>
+  </data>
+  <data name="astronautPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 23</value>
+  </data>
+  <data name="astronautPowerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="astronautPowerLabel.Text" xml:space="preserve">
+    <value>+ 0 KM/CLICK</value>
+  </data>
+  <data name="astronautPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;astronautPowerLabel.Name" xml:space="preserve">
+    <value>astronautPowerLabel</value>
+  </data>
+  <data name="&gt;&gt;astronautPowerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;astronautPowerLabel.Parent" xml:space="preserve">
+    <value>astronautGroupBox</value>
+  </data>
+  <data name="&gt;&gt;astronautPowerLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="astronautPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="astronautPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="astronautPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="astronautPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="astronautPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;astronautPictureBox.Name" xml:space="preserve">
+    <value>astronautPictureBox</value>
+  </data>
+  <data name="&gt;&gt;astronautPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;astronautPictureBox.Parent" xml:space="preserve">
+    <value>astronautGroupBox</value>
+  </data>
+  <data name="&gt;&gt;astronautPictureBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="astronautAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="astronautAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 79</value>
+  </data>
+  <data name="astronautAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 23</value>
+  </data>
+  <data name="astronautAmountLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="astronautAmountLabel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="astronautAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;astronautAmountLabel.Name" xml:space="preserve">
+    <value>astronautAmountLabel</value>
+  </data>
+  <data name="&gt;&gt;astronautAmountLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;astronautAmountLabel.Parent" xml:space="preserve">
+    <value>astronautGroupBox</value>
+  </data>
+  <data name="&gt;&gt;astronautAmountLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="astronautCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="astronautCostLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="astronautCostLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>297, 23</value>
+  </data>
+  <data name="astronautCostLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="astronautCostLabel.Text" xml:space="preserve">
+    <value>1000 $</value>
+  </data>
+  <data name="astronautCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;astronautCostLabel.Name" xml:space="preserve">
+    <value>astronautCostLabel</value>
+  </data>
+  <data name="&gt;&gt;astronautCostLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;astronautCostLabel.Parent" xml:space="preserve">
+    <value>astronautGroupBox</value>
+  </data>
+  <data name="&gt;&gt;astronautCostLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="astronautGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 157</value>
+  </data>
+  <data name="astronautGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>434, 130</value>
+  </data>
+  <data name="astronautGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="astronautGroupBox.Text" xml:space="preserve">
+    <value>Astronaut (Active Upgrade)</value>
+  </data>
+  <data name="&gt;&gt;astronautGroupBox.Name" xml:space="preserve">
+    <value>astronautGroupBox</value>
+  </data>
+  <data name="&gt;&gt;astronautGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;astronautGroupBox.Parent" xml:space="preserve">
+    <value>upgradesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;astronautGroupBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="autopilotPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="autopilotPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>201, 79</value>
+  </data>
+  <data name="autopilotPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 23</value>
+  </data>
+  <data name="autopilotPowerLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="autopilotPowerLabel.Text" xml:space="preserve">
+    <value>+ 0 KM/S</value>
+  </data>
+  <data name="autopilotPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;autopilotPowerLabel.Name" xml:space="preserve">
+    <value>autopilotPowerLabel</value>
+  </data>
+  <data name="&gt;&gt;autopilotPowerLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;autopilotPowerLabel.Parent" xml:space="preserve">
+    <value>autopilotGroupBox</value>
+  </data>
+  <data name="&gt;&gt;autopilotPowerLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="autoPilotPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="autoPilotPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="autoPilotPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 96</value>
+  </data>
+  <data name="autoPilotPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="autoPilotPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;autoPilotPictureBox.Name" xml:space="preserve">
+    <value>autoPilotPictureBox</value>
+  </data>
+  <data name="&gt;&gt;autoPilotPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;autoPilotPictureBox.Parent" xml:space="preserve">
+    <value>autopilotGroupBox</value>
+  </data>
+  <data name="&gt;&gt;autoPilotPictureBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="autopilotAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="autopilotAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>118, 79</value>
+  </data>
+  <data name="autopilotAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 23</value>
+  </data>
+  <data name="autopilotAmountLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="autopilotAmountLabel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="autopilotAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;autopilotAmountLabel.Name" xml:space="preserve">
+    <value>autopilotAmountLabel</value>
+  </data>
+  <data name="&gt;&gt;autopilotAmountLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;autopilotAmountLabel.Parent" xml:space="preserve">
+    <value>autopilotGroupBox</value>
+  </data>
+  <data name="&gt;&gt;autopilotAmountLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="autopilotCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="autopilotCostLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>121, 45</value>
+  </data>
+  <data name="autopilotCostLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>297, 23</value>
+  </data>
+  <data name="autopilotCostLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="autopilotCostLabel.Text" xml:space="preserve">
+    <value>100 $</value>
+  </data>
+  <data name="autopilotCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;autopilotCostLabel.Name" xml:space="preserve">
+    <value>autopilotCostLabel</value>
+  </data>
+  <data name="&gt;&gt;autopilotCostLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;autopilotCostLabel.Parent" xml:space="preserve">
+    <value>autopilotGroupBox</value>
+  </data>
+  <data name="&gt;&gt;autopilotCostLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="autopilotGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 21</value>
+  </data>
+  <data name="autopilotGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>434, 130</value>
+  </data>
+  <data name="autopilotGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="autopilotGroupBox.Text" xml:space="preserve">
+    <value>Autopilot (Passive Upgrade)</value>
+  </data>
+  <data name="&gt;&gt;autopilotGroupBox.Name" xml:space="preserve">
+    <value>autopilotGroupBox</value>
+  </data>
+  <data name="&gt;&gt;autopilotGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;autopilotGroupBox.Parent" xml:space="preserve">
+    <value>upgradesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;autopilotGroupBox.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="upgradesGroupBox.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="upgradesGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>806, 6</value>
+  </data>
+  <data name="upgradesGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>446, 706</value>
+  </data>
+  <data name="upgradesGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="upgradesGroupBox.Text" xml:space="preserve">
+    <value>Upgrades</value>
+  </data>
+  <data name="&gt;&gt;upgradesGroupBox.Name" xml:space="preserve">
+    <value>upgradesGroupBox</value>
+  </data>
+  <data name="&gt;&gt;upgradesGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;upgradesGroupBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;upgradesGroupBox.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="infoButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="infoButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="infoButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1038, 818</value>
+  </data>
+  <data name="infoButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 31</value>
+  </data>
+  <data name="infoButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="infoButton.Text" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="&gt;&gt;infoButton.Name" xml:space="preserve">
+    <value>infoButton</value>
+  </data>
+  <data name="&gt;&gt;infoButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;infoButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;infoButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="openFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="distanceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="distanceLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>223, 49</value>
+  </data>
+  <data name="distanceLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>285, 23</value>
+  </data>
+  <data name="distanceLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="distanceLabel.Text" xml:space="preserve">
+    <value>0 KM</value>
+  </data>
+  <data name="distanceLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;distanceLabel.Name" xml:space="preserve">
+    <value>distanceLabel</value>
+  </data>
+  <data name="&gt;&gt;distanceLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;distanceLabel.Parent" xml:space="preserve">
+    <value>progressGroupBox</value>
+  </data>
+  <data name="&gt;&gt;distanceLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="animatedBackgroundPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="animatedBackgroundPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>800, -6878</value>
+  </data>
+  <data name="animatedBackgroundPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>7880, 6890</value>
+  </data>
+  <data name="animatedBackgroundPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="animatedBackgroundPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;animatedBackgroundPictureBox.Name" xml:space="preserve">
+    <value>animatedBackgroundPictureBox</value>
+  </data>
+  <data name="&gt;&gt;animatedBackgroundPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;animatedBackgroundPictureBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;animatedBackgroundPictureBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rocketPictureBox.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="rocketPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rocketPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>179, 139</value>
+  </data>
+  <data name="rocketPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>390, 390</value>
+  </data>
+  <data name="rocketPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="rocketPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;rocketPictureBox.Name" xml:space="preserve">
+    <value>rocketPictureBox</value>
+  </data>
+  <data name="&gt;&gt;rocketPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rocketPictureBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rocketPictureBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="backgroundPictureBox.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="backgroundPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="backgroundPictureBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="backgroundPictureBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>788, 689</value>
+  </data>
+  <data name="backgroundPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="backgroundPictureBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;backgroundPictureBox.Name" xml:space="preserve">
+    <value>backgroundPictureBox</value>
+  </data>
+  <data name="&gt;&gt;backgroundPictureBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;backgroundPictureBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;backgroundPictureBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
   <data name="dotPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -269,66 +1304,6 @@
   </data>
   <data name="&gt;&gt;dotPictureBox.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="distanceLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="distanceLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>223, 49</value>
-  </data>
-  <data name="distanceLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>285, 23</value>
-  </data>
-  <data name="distanceLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="distanceLabel.Text" xml:space="preserve">
-    <value>0      KM</value>
-  </data>
-  <data name="distanceLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;distanceLabel.Name" xml:space="preserve">
-    <value>distanceLabel</value>
-  </data>
-  <data name="&gt;&gt;distanceLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;distanceLabel.Parent" xml:space="preserve">
-    <value>progressGroupBox</value>
-  </data>
-  <data name="&gt;&gt;distanceLabel.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="totalLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="totalLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>123, 49</value>
-  </data>
-  <data name="totalLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>94, 23</value>
-  </data>
-  <data name="totalLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="totalLabel.Text" xml:space="preserve">
-    <value>Total  :</value>
-  </data>
-  <data name="totalLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;totalLabel.Name" xml:space="preserve">
-    <value>totalLabel</value>
-  </data>
-  <data name="&gt;&gt;totalLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;totalLabel.Parent" xml:space="preserve">
-    <value>progressGroupBox</value>
-  </data>
-  <data name="&gt;&gt;totalLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
   </data>
   <data name="linePictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -437,1278 +1412,6 @@
   </data>
   <data name="&gt;&gt;coinsPictureBox.ZOrder" xml:space="preserve">
     <value>6</value>
-  </data>
-  <data name="coinsLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="coinsLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>609, 49</value>
-  </data>
-  <data name="coinsLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>285, 23</value>
-  </data>
-  <data name="coinsLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="coinsLabel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="coinsLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;coinsLabel.Name" xml:space="preserve">
-    <value>coinsLabel</value>
-  </data>
-  <data name="&gt;&gt;coinsLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;coinsLabel.Parent" xml:space="preserve">
-    <value>progressGroupBox</value>
-  </data>
-  <data name="&gt;&gt;coinsLabel.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="exitButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>DREAMS, 3pt</value>
-  </data>
-  <data name="exitButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="exitButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1038, 855</value>
-  </data>
-  <data name="exitButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 31</value>
-  </data>
-  <data name="exitButton.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="exitButton.Text" xml:space="preserve">
-    <value>Exit</value>
-  </data>
-  <data name="&gt;&gt;exitButton.Name" xml:space="preserve">
-    <value>exitButton</value>
-  </data>
-  <data name="&gt;&gt;exitButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;exitButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;exitButton.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="loadButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>DREAMS, 3pt</value>
-  </data>
-  <data name="loadButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="loadButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1038, 767</value>
-  </data>
-  <data name="loadButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 31</value>
-  </data>
-  <data name="loadButton.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="loadButton.Text" xml:space="preserve">
-    <value>Load</value>
-  </data>
-  <data name="&gt;&gt;loadButton.Name" xml:space="preserve">
-    <value>loadButton</value>
-  </data>
-  <data name="&gt;&gt;loadButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;loadButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;loadButton.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="saveButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>DREAMS, 3pt</value>
-  </data>
-  <data name="saveButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="saveButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1038, 730</value>
-  </data>
-  <data name="saveButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 31</value>
-  </data>
-  <data name="saveButton.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="saveButton.Text" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="&gt;&gt;saveButton.Name" xml:space="preserve">
-    <value>saveButton</value>
-  </data>
-  <data name="&gt;&gt;saveButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;saveButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;saveButton.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.Name" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.Name" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.Name" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.Name" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.Name" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="upgradesGroupBox.Font" type="System.Drawing.Font, System.Drawing">
-    <value>DREAMS, 3pt</value>
-  </data>
-  <data name="upgradesGroupBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>806, 12</value>
-  </data>
-  <data name="upgradesGroupBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>446, 689</value>
-  </data>
-  <data name="upgradesGroupBox.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="upgradesGroupBox.Text" xml:space="preserve">
-    <value>Upgrades</value>
-  </data>
-  <data name="&gt;&gt;upgradesGroupBox.Name" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;upgradesGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;upgradesGroupBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;upgradesGroupBox.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.Name" xml:space="preserve">
-    <value>alienTechnologyPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.Name" xml:space="preserve">
-    <value>alienTechnologyPictureBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.Name" xml:space="preserve">
-    <value>alienTechnologyAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.Name" xml:space="preserve">
-    <value>alienTechnologyCostLabel</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="alienTechnologyGroupBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 538</value>
-  </data>
-  <data name="alienTechnologyGroupBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>434, 122</value>
-  </data>
-  <data name="alienTechnologyGroupBox.TabIndex" type="System.Int32, mscorlib">
-    <value>26</value>
-  </data>
-  <data name="alienTechnologyGroupBox.Text" xml:space="preserve">
-    <value>Alien      Technology      (Active)</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.Name" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyGroupBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="alienTechnologyPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="alienTechnologyPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>201, 78</value>
-  </data>
-  <data name="alienTechnologyPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>217, 13</value>
-  </data>
-  <data name="alienTechnologyPowerLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="alienTechnologyPowerLabel.Text" xml:space="preserve">
-    <value>+ 0 KM/CLICK</value>
-  </data>
-  <data name="alienTechnologyPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.Name" xml:space="preserve">
-    <value>alienTechnologyPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="alienTechnologyPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="alienTechnologyPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 19</value>
-  </data>
-  <data name="alienTechnologyPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 96</value>
-  </data>
-  <data name="alienTechnologyPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="alienTechnologyPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.Name" xml:space="preserve">
-    <value>alienTechnologyPictureBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="alienTechnologyAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="alienTechnologyAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>118, 78</value>
-  </data>
-  <data name="alienTechnologyAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 13</value>
-  </data>
-  <data name="alienTechnologyAmountLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>20</value>
-  </data>
-  <data name="alienTechnologyAmountLabel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="alienTechnologyAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.Name" xml:space="preserve">
-    <value>alienTechnologyAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="alienTechnologyCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="alienTechnologyCostLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>121, 43</value>
-  </data>
-  <data name="alienTechnologyCostLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>297, 13</value>
-  </data>
-  <data name="alienTechnologyCostLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>21</value>
-  </data>
-  <data name="alienTechnologyCostLabel.Text" xml:space="preserve">
-    <value>25000 $</value>
-  </data>
-  <data name="alienTechnologyCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.Name" xml:space="preserve">
-    <value>alienTechnologyCostLabel</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.Parent" xml:space="preserve">
-    <value>alienTechnologyGroupBox</value>
-  </data>
-  <data name="&gt;&gt;alienTechnologyCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.Name" xml:space="preserve">
-    <value>aerodynamicsPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.Name" xml:space="preserve">
-    <value>aerodynamicsPictureBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.Name" xml:space="preserve">
-    <value>aerodynamicsAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.Name" xml:space="preserve">
-    <value>aerodynamicsCostLabel</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="aerodynamicsGroupBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 410</value>
-  </data>
-  <data name="aerodynamicsGroupBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>434, 122</value>
-  </data>
-  <data name="aerodynamicsGroupBox.TabIndex" type="System.Int32, mscorlib">
-    <value>25</value>
-  </data>
-  <data name="aerodynamicsGroupBox.Text" xml:space="preserve">
-    <value>Aerodynamics      (Passive)</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.Name" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsGroupBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="aerodynamicsPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="aerodynamicsPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>201, 78</value>
-  </data>
-  <data name="aerodynamicsPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>217, 13</value>
-  </data>
-  <data name="aerodynamicsPowerLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
-  <data name="aerodynamicsPowerLabel.Text" xml:space="preserve">
-    <value>+ 0 KM/S</value>
-  </data>
-  <data name="aerodynamicsPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.Name" xml:space="preserve">
-    <value>aerodynamicsPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="aerodynamicsPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="aerodynamicsPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 19</value>
-  </data>
-  <data name="aerodynamicsPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 96</value>
-  </data>
-  <data name="aerodynamicsPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="aerodynamicsPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.Name" xml:space="preserve">
-    <value>aerodynamicsPictureBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="aerodynamicsAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="aerodynamicsAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>118, 78</value>
-  </data>
-  <data name="aerodynamicsAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 13</value>
-  </data>
-  <data name="aerodynamicsAmountLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="aerodynamicsAmountLabel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="aerodynamicsAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.Name" xml:space="preserve">
-    <value>aerodynamicsAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="aerodynamicsCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="aerodynamicsCostLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>121, 43</value>
-  </data>
-  <data name="aerodynamicsCostLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>297, 13</value>
-  </data>
-  <data name="aerodynamicsCostLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
-  </data>
-  <data name="aerodynamicsCostLabel.Text" xml:space="preserve">
-    <value>10000 $</value>
-  </data>
-  <data name="aerodynamicsCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.Name" xml:space="preserve">
-    <value>aerodynamicsCostLabel</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.Parent" xml:space="preserve">
-    <value>aerodynamicsGroupBox</value>
-  </data>
-  <data name="&gt;&gt;aerodynamicsCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.Name" xml:space="preserve">
-    <value>nuclearFuelPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.Name" xml:space="preserve">
-    <value>nuclearFuelPictureBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.Name" xml:space="preserve">
-    <value>nuclearFuelAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.Name" xml:space="preserve">
-    <value>nuclearFuelCostLabel</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="nuclearFuelGroupBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 282</value>
-  </data>
-  <data name="nuclearFuelGroupBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>434, 122</value>
-  </data>
-  <data name="nuclearFuelGroupBox.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
-  </data>
-  <data name="nuclearFuelGroupBox.Text" xml:space="preserve">
-    <value>Nuclear      Fuel      (Active)</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.Name" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelGroupBox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="nuclearFuelPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="nuclearFuelPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>201, 78</value>
-  </data>
-  <data name="nuclearFuelPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>217, 13</value>
-  </data>
-  <data name="nuclearFuelPowerLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="nuclearFuelPowerLabel.Text" xml:space="preserve">
-    <value>+ 0 KM/CLICK</value>
-  </data>
-  <data name="nuclearFuelPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.Name" xml:space="preserve">
-    <value>nuclearFuelPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="nuclearFuelPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="nuclearFuelPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 19</value>
-  </data>
-  <data name="nuclearFuelPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 96</value>
-  </data>
-  <data name="nuclearFuelPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="nuclearFuelPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.Name" xml:space="preserve">
-    <value>nuclearFuelPictureBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="nuclearFuelAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="nuclearFuelAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>118, 78</value>
-  </data>
-  <data name="nuclearFuelAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 13</value>
-  </data>
-  <data name="nuclearFuelAmountLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="nuclearFuelAmountLabel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="nuclearFuelAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.Name" xml:space="preserve">
-    <value>nuclearFuelAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="nuclearFuelCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="nuclearFuelCostLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>121, 43</value>
-  </data>
-  <data name="nuclearFuelCostLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>297, 13</value>
-  </data>
-  <data name="nuclearFuelCostLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="nuclearFuelCostLabel.Text" xml:space="preserve">
-    <value>5000 $</value>
-  </data>
-  <data name="nuclearFuelCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.Name" xml:space="preserve">
-    <value>nuclearFuelCostLabel</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.Parent" xml:space="preserve">
-    <value>nuclearFuelGroupBox</value>
-  </data>
-  <data name="&gt;&gt;nuclearFuelCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.Name" xml:space="preserve">
-    <value>astronautPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.Name" xml:space="preserve">
-    <value>astronautPictureBox</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.Name" xml:space="preserve">
-    <value>astronautAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.Name" xml:space="preserve">
-    <value>astronautCostLabel</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="astronautGroupBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 154</value>
-  </data>
-  <data name="astronautGroupBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>434, 122</value>
-  </data>
-  <data name="astronautGroupBox.TabIndex" type="System.Int32, mscorlib">
-    <value>23</value>
-  </data>
-  <data name="astronautGroupBox.Text" xml:space="preserve">
-    <value>Astronaut      (Active)</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.Name" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautGroupBox.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="astronautPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="astronautPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>201, 78</value>
-  </data>
-  <data name="astronautPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>217, 13</value>
-  </data>
-  <data name="astronautPowerLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="astronautPowerLabel.Text" xml:space="preserve">
-    <value>+ 0 KM/CLICK</value>
-  </data>
-  <data name="astronautPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.Name" xml:space="preserve">
-    <value>astronautPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="astronautPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="astronautPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 19</value>
-  </data>
-  <data name="astronautPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 96</value>
-  </data>
-  <data name="astronautPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="astronautPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.Name" xml:space="preserve">
-    <value>astronautPictureBox</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="astronautAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="astronautAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>118, 78</value>
-  </data>
-  <data name="astronautAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 13</value>
-  </data>
-  <data name="astronautAmountLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="astronautAmountLabel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="astronautAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.Name" xml:space="preserve">
-    <value>astronautAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="astronautCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="astronautCostLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>121, 43</value>
-  </data>
-  <data name="astronautCostLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>297, 13</value>
-  </data>
-  <data name="astronautCostLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="astronautCostLabel.Text" xml:space="preserve">
-    <value>1000 $</value>
-  </data>
-  <data name="astronautCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.Name" xml:space="preserve">
-    <value>astronautCostLabel</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.Parent" xml:space="preserve">
-    <value>astronautGroupBox</value>
-  </data>
-  <data name="&gt;&gt;astronautCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.Name" xml:space="preserve">
-    <value>autopilotPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.Name" xml:space="preserve">
-    <value>autoPilotPictureBox</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.Name" xml:space="preserve">
-    <value>autopilotAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.Name" xml:space="preserve">
-    <value>autopilotCostLabel</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="autopilotGroupBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 26</value>
-  </data>
-  <data name="autopilotGroupBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>434, 122</value>
-  </data>
-  <data name="autopilotGroupBox.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="autopilotGroupBox.Text" xml:space="preserve">
-    <value>Autopilot      (Passive)</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.Name" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.Parent" xml:space="preserve">
-    <value>upgradesGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotGroupBox.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="autopilotPowerLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="autopilotPowerLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>201, 78</value>
-  </data>
-  <data name="autopilotPowerLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>217, 13</value>
-  </data>
-  <data name="autopilotPowerLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="autopilotPowerLabel.Text" xml:space="preserve">
-    <value>+ 0 KM/S</value>
-  </data>
-  <data name="autopilotPowerLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.Name" xml:space="preserve">
-    <value>autopilotPowerLabel</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotPowerLabel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="autoPilotPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="autoPilotPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 19</value>
-  </data>
-  <data name="autoPilotPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 96</value>
-  </data>
-  <data name="autoPilotPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="autoPilotPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.Name" xml:space="preserve">
-    <value>autoPilotPictureBox</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autoPilotPictureBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="autopilotAmountLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="autopilotAmountLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>118, 78</value>
-  </data>
-  <data name="autopilotAmountLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 13</value>
-  </data>
-  <data name="autopilotAmountLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="autopilotAmountLabel.Text" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="autopilotAmountLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.Name" xml:space="preserve">
-    <value>autopilotAmountLabel</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotAmountLabel.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="autopilotCostLabel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="autopilotCostLabel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>121, 43</value>
-  </data>
-  <data name="autopilotCostLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>297, 13</value>
-  </data>
-  <data name="autopilotCostLabel.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="autopilotCostLabel.Text" xml:space="preserve">
-    <value>100 $</value>
-  </data>
-  <data name="autopilotCostLabel.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.Name" xml:space="preserve">
-    <value>autopilotCostLabel</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.Parent" xml:space="preserve">
-    <value>autopilotGroupBox</value>
-  </data>
-  <data name="&gt;&gt;autopilotCostLabel.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="infoButton.Font" type="System.Drawing.Font, System.Drawing">
-    <value>DREAMS, 3pt</value>
-  </data>
-  <data name="infoButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="infoButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>1038, 818</value>
-  </data>
-  <data name="infoButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>214, 31</value>
-  </data>
-  <data name="infoButton.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="infoButton.Text" xml:space="preserve">
-    <value>Info</value>
-  </data>
-  <data name="&gt;&gt;infoButton.Name" xml:space="preserve">
-    <value>infoButton</value>
-  </data>
-  <data name="&gt;&gt;infoButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;infoButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;infoButton.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <metadata name="openFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <data name="animatedBackgroundPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="animatedBackgroundPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>800, -6878</value>
-  </data>
-  <data name="animatedBackgroundPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>7880, 6890</value>
-  </data>
-  <data name="animatedBackgroundPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="animatedBackgroundPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;animatedBackgroundPictureBox.Name" xml:space="preserve">
-    <value>animatedBackgroundPictureBox</value>
-  </data>
-  <data name="&gt;&gt;animatedBackgroundPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;animatedBackgroundPictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;animatedBackgroundPictureBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="rocketPictureBox.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="rocketPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="rocketPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>179, 139</value>
-  </data>
-  <data name="rocketPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>390, 390</value>
-  </data>
-  <data name="rocketPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>Zoom</value>
-  </data>
-  <data name="rocketPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;rocketPictureBox.Name" xml:space="preserve">
-    <value>rocketPictureBox</value>
-  </data>
-  <data name="&gt;&gt;rocketPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;rocketPictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;rocketPictureBox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="backgroundPictureBox.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>Stretch</value>
-  </data>
-  <data name="backgroundPictureBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="backgroundPictureBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 12</value>
-  </data>
-  <data name="backgroundPictureBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>788, 689</value>
-  </data>
-  <data name="backgroundPictureBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="backgroundPictureBox.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;backgroundPictureBox.Name" xml:space="preserve">
-    <value>backgroundPictureBox</value>
-  </data>
-  <data name="&gt;&gt;backgroundPictureBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;backgroundPictureBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;backgroundPictureBox.ZOrder" xml:space="preserve">
-    <value>5</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

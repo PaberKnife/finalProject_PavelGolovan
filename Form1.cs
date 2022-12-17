@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Drawing.Text;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -66,9 +67,9 @@ namespace finalProject_PavelGolovan
         {
             while (true)
             {
-                await Task.Delay(500);
+                await Task.Delay(100);
 
-                distanceLabel.Text = distance.Amount.ToString() + "      KM";
+                distanceLabel.Text = distance.Amount.ToString() + " KM";
                 coinsLabel.Text = coins.Amount.ToString();
 
                 if (theEnd == false)
@@ -102,7 +103,7 @@ namespace finalProject_PavelGolovan
         {
             StreamWriter outputFile;
 
-            outputFile = File.AppendText("savefile.sf");
+            outputFile = File.CreateText("savefile.sf");
             outputFile.WriteLine(distance.Name + ":" + distance.Amount.ToString() + "," + distance.ActiveIncome.ToString() + "," + distance.PassiveIncome.ToString() + "\n" +
                 coins.Name + ":" + coins.Amount.ToString() + "," + coins.ActiveIncome.ToString() + "," + coins.PassiveIncome.ToString());
             foreach (ActiveUpgrade upgrade in activeUpgrades)
@@ -205,9 +206,6 @@ namespace finalProject_PavelGolovan
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            PrivateFontCollection customFont = new PrivateFontCollection();
-            customFont.AddFontFile("DREAMS.ttf");
-
             backgroundPictureBox.Controls.Add(rocketPictureBox);
             backgroundPictureBox.Controls.Add(animatedBackgroundPictureBox);
 
@@ -253,7 +251,7 @@ namespace finalProject_PavelGolovan
             boost();
             distance.Active();
             coins.Active();
-            distanceLabel.Text = distance.Amount.ToString() + "      KM";
+            distanceLabel.Text = distance.Amount.ToString() + " KM";
             coinsLabel.Text = coins.Amount.ToString();
         }
 
